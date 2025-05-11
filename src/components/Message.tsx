@@ -20,13 +20,22 @@ const Message: React.FC = () => {
                   Today should’ve started with smiles, warmth, and love — and I’m so deeply sorry that I forgot your special day. I know how much your birthday means, and I can’t express how badly I wish I could go back in time and make it right. Please know this from my heart: this will never happen again.
               </p>
               <p>
-                Your kindness, your strength, your laughter, and even your little quirks that only I get to see - every part of you has made my life infinitely better. The way you love, the way you care, and the way you make our house a home fills me with gratitude every single day.
+                You deserve the kind of love that never misses a moment to make you feel special, and I failed you this time. But even in my mistakes, one thing is true — you mean everything to me.
               </p>
               <p>
-                Today is all about celebrating YOU - the incredible person you are and all the amazing things you've yet to do. The world is lucky to have you, and I'm the luckiest of all to call you mine.
+                You are the light in my life, the calm in my chaos, and the only girl I ever want to walk this life with. Your smile makes my world brighter, your voice is my favorite sound, and your love is the most precious gift I’ve ever received.
               </p>
               <p>
-                Happy 20th birthday, my love. Here's to many more birthdays together, many more adventures, many more quiet moments, and many more reasons to celebrate this beautiful life we're building together.
+                I know you deserve the best — the kind of love that sweeps you off your feet. And maybe I’m not the best, not yet… But I promise you, every single day I’m working hard to become better, to give you all the happiness in the world. Because that’s what you deserve, my girl. You deserve joy, peace, passion, and a love that never stops trying.
+              </p>
+              <p>
+                So please… keep the hope in me. Keep loving me, the way only you can. And I promise to love you harder, deeper, and more beautifully with every passing day.
+              </p>
+              <p>
+                Today, I celebrate you — the beautiful soul who stole my heart and gave me a reason to believe in magic again. I’m so lucky to call you mine, and I’ll spend the rest of my life proving that to you.
+              </p>
+              <p>
+                You deserve the kind of love that never misses a moment to make you feel special, and I failed you this time. But even in my mistakes, one thing is true — you mean everything to me.
               </p>
               <p className="text-right font-dancing text-2xl text-birthday-rose">
                 With all my love,
