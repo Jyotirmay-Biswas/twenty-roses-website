@@ -1,5 +1,7 @@
+
 import React from 'react';
 import { Button } from '@/components/ui/button';
+
 const Hero: React.FC = () => {
   return <section id="home" className="min-h-[95vh] flex items-center pt-16">
       <div className="birthday-container">
@@ -30,7 +32,7 @@ const Hero: React.FC = () => {
             <div className="absolute -bottom-5 -left-5 w-20 h-20 bg-birthday-pink rounded-full opacity-60 animate-float"></div>
             
             <div className="relative z-10 rounded-2xl overflow-hidden golden-border p-2 bg-white rotate-3 animate-float">
-              <img alt="Happy Couple" src="/lovable-uploads/24880a48-b9f6-4cef-be88-1f5ef0fd4228.jpg" className="w-full h-[400px] rounded-xl object-contain" />
+              <img alt="Our First Date" src="/lovable-uploads/d58ee868-7cc5-448a-bc3b-b7d06fa10dc9.png" className="w-full h-[400px] object-cover" />
             </div>
           </div>
         </div>

@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { heart } from 'lucide-react';
+import { Heart } from 'lucide-react';
 
 const Footer: React.FC = () => {
   const currentYear = new Date().getFullYear();
