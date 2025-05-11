@@ -11,7 +11,7 @@ const Gallery: React.FC = () => {
       alt: "Our first date", 
       caption: "Our first date" 
     },
-    { id: 2, src: "/placeholder.svg", alt: "Special moment 2", caption: "Beach trip" },
+    { id: 2, src: "/lovable-uploads/HOTTI.jpg", alt: "Special moment 2", caption: "Beach trip" },
     { id: 3, src: "/placeholder.svg", alt: "Special moment 3", caption: "New Year's Eve" },
     { id: 4, src: "/placeholder.svg", alt: "Special moment 4", caption: "Hiking adventure" },
     { id: 5, src: "/placeholder.svg", alt: "Special moment 5", caption: "That perfect dinner" },
