@@ -34,7 +34,7 @@ const Gallery: React.FC = () => {
                   <img 
                     src={image.src} 
                     alt={image.alt} 
-                    className="w-full aspect-[4/3] object-cover"
+                    className="w-full aspect-[4/3] object-contain"
                   />
                   <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 to-transparent p-4">
                     <p className="text-white text-lg font-dancing">{image.caption}</p>
