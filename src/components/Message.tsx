@@ -16,17 +16,19 @@ const Message: React.FC = () => {
                 To the love of my life,
               </p>
               <p>
-                Happy Birthday, my sweetheart. <br>
-                  Today should’ve started with smiles, warmth, and love — and I’m so deeply sorry that I forgot your special day. I know how much your birthday means, and I can’t express how badly I wish I could go back in time and make it right. Please know this from my heart: this will never happen again.
+                Happy Birthday, my sweetheart. <br> Today should’ve started with smiles, warmth, and love — and I’m so deeply sorry that I forgot your special day. I know how much your birthday means, 
+                and I can’t express how badly I wish I could go back in time and make it right. Please know this from my heart: this will never happen again.
               </p>
               <p>
                 You deserve the kind of love that never misses a moment to make you feel special, and I failed you this time. But even in my mistakes, one thing is true — you mean everything to me.
               </p>
               <p>
-                You are the light in my life, the calm in my chaos, and the only girl I ever want to walk this life with. Your smile makes my world brighter, your voice is my favorite sound, and your love is the most precious gift I’ve ever received.
+                You are the light in my life, the calm in my chaos, and the only girl I ever want to walk this life with. Your smile makes my world brighter, your voice is my favorite sound, 
+                and your love is the most precious gift I’ve ever received.
               </p>
               <p>
-                I know you deserve the best — the kind of love that sweeps you off your feet. And maybe I’m not the best, not yet… But I promise you, every single day I’m working hard to become better, to give you all the happiness in the world. Because that’s what you deserve, my girl. You deserve joy, peace, passion, and a love that never stops trying.
+                I know you deserve the best — the kind of love that sweeps you off your feet. And maybe I’m not the best, not yet… But I promise you, every single day I’m working hard to 
+                become better, to give you all the happiness in the world. Because that’s what you deserve, my girl. You deserve joy, peace, passion, and a love that never stops trying.
               </p>
               <p>
                 So please… keep the hope in me. Keep loving me, the way only you can. And I promise to love you harder, deeper, and more beautifully with every passing day.
