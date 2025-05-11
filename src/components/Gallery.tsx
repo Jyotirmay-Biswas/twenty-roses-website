@@ -11,11 +11,11 @@ const Gallery: React.FC = () => {
       alt: "Our first date", 
       caption: "Our first date" 
     },
-    { id: 2, src: "/lovable-uploads/bonolota.jpg", alt: "Special moment 2", caption: "Beach trip" },
-    { id: 3, src: "/lovable-uploads/bishnupur.jpg", alt: "Special moment 3", caption: "New Year's Eve" },
-    { id: 4, src: "/lovable-uploads/ghar.jpg", alt: "Special moment 4", caption: "Hiking adventure" },
-    { id: 5, src: "/lovable-uploads/HOTTI.jpg", alt: "Special moment 5", caption: "That perfect dinner" },
-    { id: 6, src: "/lovable-uploads/COLLEGE.jpg", alt: "Special moment 6", caption: "Your smile that day" },
+    { id: 2, src: "/lovable-uploads/bonolota.jpg", alt: "Special moment 2", caption: "A trip to Bonolota Resort" },
+    { id: 3, src: "/lovable-uploads/bishnupur.jpg", alt: "Special moment 3", caption: "Bishnupur Hoping" },
+    { id: 4, src: "/lovable-uploads/ghar.jpg", alt: "Special moment 4", caption: "Towards Home" },
+    { id: 5, src: "/lovable-uploads/HOTTI.jpg", alt: "Special moment 5", caption: "My perfect dinner" },
+    { id: 6, src: "/lovable-uploads/COLLEGE.jpg", alt: "Special moment 6", caption: "Your smile that day in College" },
   ];
 
   return (
