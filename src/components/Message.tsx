@@ -16,8 +16,8 @@ const Message: React.FC = () => {
                 To the love of my life,
               </p>
               <p>
-                Happy Birthday, my sweetheart. <br>
-                  Today should’ve started with smiles, warmth, and love — and I’m so deeply sorry that I forgot your special day. I know how much your birthday means, and I can’t express how badly I wish I could go back in time and make it right. Please know this from my heart: this will never happen again.
+                Happy Birthday, my sweetheart. <br />
+                Today should've started with smiles, warmth, and love — and I'm so deeply sorry that I forgot your special day. I know how much your birthday means, and I can't express how badly I wish I could go back in time and make it right. Please know this from my heart: this will never happen again.
               </p>
               <p>
                 Your kindness, your strength, your laughter, and even your little quirks that only I get to see - every part of you has made my life infinitely better. The way you love, the way you care, and the way you make our house a home fills me with gratitude every single day.
