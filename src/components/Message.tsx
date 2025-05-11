@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { Card, CardContent } from '@/components/ui/card';
-import { heart } from 'lucide-react';
+import { Heart } from 'lucide-react';
 
 const Message: React.FC = () => {
   return (

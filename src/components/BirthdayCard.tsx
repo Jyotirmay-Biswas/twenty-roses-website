@@ -1,7 +1,7 @@
 
 import React, { useState } from 'react';
 import { Button } from '@/components/ui/button';
-import { heart } from 'lucide-react';
+import { Heart } from 'lucide-react';
 
 const BirthdayCard: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);

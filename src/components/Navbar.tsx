@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { heart } from 'lucide-react';
+import { Heart } from 'lucide-react';
 
 const Navbar: React.FC = () => {
   return (
