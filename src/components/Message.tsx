@@ -13,10 +13,11 @@ const Message: React.FC = () => {
           <CardContent className="p-8">
             <div className="text-lg text-gray-700 space-y-6">
               <p>
-                To my dearest wife on your 20th birthday,
+                To the love of my life,
               </p>
               <p>
-                As you celebrate this milestone birthday, I wanted to create something special that captures just how much you mean to me. Twenty years of your beautiful existence on this earth - what a gift that has been to everyone who knows you, especially me.
+                Happy Birthday, my sweetheart. <br>
+                  Today should’ve started with smiles, warmth, and love — and I’m so deeply sorry that I forgot your special day. I know how much your birthday means, and I can’t express how badly I wish I could go back in time and make it right. Please know this from my heart: this will never happen again.
               </p>
               <p>
                 Your kindness, your strength, your laughter, and even your little quirks that only I get to see - every part of you has made my life infinitely better. The way you love, the way you care, and the way you make our house a home fills me with gratitude every single day.
