@@ -56,8 +56,6 @@ const BirthdayCard: React.FC = () => {
                   </p>
                   <p className="mb-4">
                     I know I forgot your birthday, and I can’t express how sorry I am for that. If I could take it back, I would in a heartbeat. You didn’t deserve to be let down like that — you deserve the best in this world.
-                  </p>
-                  <p>
                     And I know I’m not the best… but every single day, I’m trying to become better, to give you the happiness and love you truly deserve. Please don’t lose hope in me. Keep loving me, like you always do — your love is my biggest strength.
                   </p>
                    <p>
