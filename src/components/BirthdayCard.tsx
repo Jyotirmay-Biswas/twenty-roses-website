@@ -52,14 +52,20 @@ const BirthdayCard: React.FC = () => {
                 </div>
                 <div className="py-4">
                   <p className="mb-4">
-                    May your 20th year be filled with adventure, growth, laughter, and success.
+                    Happy Birthday, my love.
+                  </p>
+                  <p className="mb-4">
+                    I know I forgot your birthday, and I can’t express how sorry I am for that. If I could take it back, I would in a heartbeat. You didn’t deserve to be let down like that — you deserve the best in this world.
                   </p>
                   <p>
-                    You deserve all the happiness in the world, today and always. I'm so grateful to celebrate another year of your amazing life.
+                    And I know I’m not the best… but every single day, I’m trying to become better, to give you the happiness and love you truly deserve. Please don’t lose hope in me. Keep loving me, like you always do — your love is my biggest strength.
+                  </p>
+                   <p>
+                    May this year be filled with adventure, growth, laughter, and success. You deserve all the happiness in the world, today and always. And I’m so grateful to celebrate another year of your beautiful life, even if I stumbled along the way.
                   </p>
                 </div>
                 <div className="font-dancing text-2xl font-semibold text-birthday-rose">
-                  I love you!
+                  I love you! more than words can say.
                 </div>
               </div>
             </div>
