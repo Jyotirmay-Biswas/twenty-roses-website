@@ -34,9 +34,6 @@ const Message: React.FC = () => {
               <p>
                 Today, I celebrate you — the beautiful soul who stole my heart and gave me a reason to believe in magic again. I’m so lucky to call you mine, and I’ll spend the rest of my life proving that to you.
               </p>
-              <p>
-                You deserve the kind of love that never misses a moment to make you feel special, and I failed you this time. But even in my mistakes, one thing is true — you mean everything to me.
-              </p>
               <p className="text-right font-dancing text-2xl text-birthday-rose">
                 With all my love,
               </p>
