@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { Button } from '@/components/ui/button';
 const Hero: React.FC = () => {
@@ -30,7 +31,7 @@ const Hero: React.FC = () => {
             <div className="absolute -bottom-5 -left-5 w-20 h-20 bg-birthday-pink rounded-full opacity-60 animate-float"></div>
             
             <div className="relative z-10 rounded-2xl overflow-hidden golden-border p-2 bg-white rotate-3 animate-float">
-              <img alt="Our First Date" src="/lovable-uploads/591efbdc-7b9f-404a-8236-1bbf1b2b2572.jpg" className="w-full h-[400px] object-cover" />
+              <img alt="Our First Date" src="/lovable-uploads/62ccb34e-299f-4403-b6b9-9a7b0a6bb1b7.png" className="w-full h-[400px] object-cover" />
             </div>
           </div>
         </div>

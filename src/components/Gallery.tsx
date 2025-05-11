@@ -3,9 +3,14 @@ import React from 'react';
 import { Card, CardContent } from '@/components/ui/card';
 
 const Gallery: React.FC = () => {
-  // This would be replaced with your actual images
+  // Updated images array with your uploaded photo as the first item
   const images = [
-    { id: 1, src: "/placeholder.svg", alt: "Special moment 1", caption: "Our first date" },
+    { 
+      id: 1, 
+      src: "/lovable-uploads/62ccb34e-299f-4403-b6b9-9a7b0a6bb1b7.png", 
+      alt: "Our first date", 
+      caption: "Our first date" 
+    },
     { id: 2, src: "/placeholder.svg", alt: "Special moment 2", caption: "Beach trip" },
     { id: 3, src: "/placeholder.svg", alt: "Special moment 3", caption: "New Year's Eve" },
     { id: 4, src: "/placeholder.svg", alt: "Special moment 4", caption: "Hiking adventure" },
